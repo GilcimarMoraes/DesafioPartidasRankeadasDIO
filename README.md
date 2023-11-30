@@ -24,4 +24,4 @@ To use this function, call `calculateRankLevel` and provide the number of wins a
 
 ```javascript
 calculateRankLevel(15, 10);
-// Output: The hero has a win-loss difference of 40 and is at the level of Gold
+// Output: The hero has a win-loss difference of 5 and is at the level of Gold
