@@ -23,5 +23,5 @@ It calculates the win-loss difference and determines the player's rank level acc
 To use this function, call `calculateRankLevel` and provide the number of wins and losses as arguments:
 
 ```javascript
-calculateRankLevel(60, 20);
+calculateRankLevel(15, 10);
 // Output: The hero has a win-loss difference of 40 and is at the level of Gold
